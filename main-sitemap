@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <sitemap>
+        <loc>https://www.flexdog.cz/sitemap/static_pages.xml</loc> <!--url na sub sitemapu-->
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod> <!--čas a datum se updatuje, pokud se něco změní v této sitemapě (realita stačí aktualizovat 1x denně)-->
+    </sitemap>
+    <sitemap>
+        <loc>https://www.flexdog.cz/sitemap/products.xml</loc>
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.bonami.cz/sitemap/categories_sneakers.xml</loc> 
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.bonami.cz/sitemap/categories_images.xml</loc> 
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.bonami.cz/sitemap/categories_images_2.xml</loc> <!--Přidaná sitemapa automaticky, pokud počet url v images sitemapě jedna přesáhl 45k-->
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.bonami.cz/sitemap/blog.xml</loc>
+        <lastmod>2018-09-10T18:54:06+02:00</lastmod>
+    </sitemap>
+</sitemapindex>
