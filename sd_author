@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "<CELÉ JMÉNO AUTORA>",
+      "description": "<POPIS AUTORA V DANÉ ZEMI>",
+      "image": "<URL - IMAGE AUTORA>",
+      "url": "<URL NA PROFIL AUTORA NA BONAMI V DANÉ ZEMI>",
+	    "sameAs": [    //POKUD NENÍ NI JEDNA URL SOCEK VYPLNĚNA, TAK SKIPUJEME CELÉ SameAs
+             "<URL FACEBOOK, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>",
+             "<URL INSTAGRAM, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>",
+             "<URL PINTEREST, POKUD JE PRÁZDNÝ SKIPNEME ŘÁDEK>"],
+    "worksFor": {
+    "@type": "Organization",
+    "legalName": "FlexDog s.r.o.",
+  	"address": {
+    	"@type": "PostalAddress",
+    	"addressCountry": "CZ",
+      	"addressLocality": "Praha 2 - Vinohrady",
+      	"postalCode": "12000",
+    	"streetAddress": "Mánesova 917/28"
+  	},
+  "vatID": "CZ09529128"
+  }
+  }
+    </script>
